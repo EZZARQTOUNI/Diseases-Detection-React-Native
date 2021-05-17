@@ -1,0 +1,9 @@
+com/medcineapp/MainActivity.java
+ com.medcineapp.MainActivity
+com/medcineapp/MainApplication.java
+ com.medcineapp.MainApplication
+ com.medcineapp.MainApplication$1
+com/medcineapp/BuildConfig.java
+ com.medcineapp.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

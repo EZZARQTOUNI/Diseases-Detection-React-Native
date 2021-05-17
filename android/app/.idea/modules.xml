@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1548401531/MedcineApp.iml" filepath="$PROJECT_DIR$/.idea/modules/1548401531/MedcineApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1916784363/MedcineApp.@react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1916784363/MedcineApp.@react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MedcineApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/MedcineApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2049911140/MedcineApp.react-native-community_art.iml" filepath="$PROJECT_DIR$/.idea/modules/2049911140/MedcineApp.react-native-community_art.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1916784363/MedcineApp.react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1916784363/MedcineApp.react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-428217176/MedcineApp.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-428217176/MedcineApp.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2049096401/MedcineApp.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-2049096401/MedcineApp.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1429145279/MedcineApp.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/-1429145279/MedcineApp.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/684627853/MedcineApp.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/684627853/MedcineApp.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1435251240/MedcineApp.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1435251240/MedcineApp.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/346430448/MedcineApp.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/346430448/MedcineApp.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-805340921/MedcineApp.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-805340921/MedcineApp.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>
